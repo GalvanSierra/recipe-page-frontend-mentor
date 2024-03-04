@@ -179,7 +179,7 @@ body {
 .table td {
   padding: 1rem;
   border-bottom: 1px solid var(--Light-Grey);
-  min-width: 300px;
+  width: 300px;
 }
 
 .table .bold {
